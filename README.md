@@ -1,5 +1,5 @@
-# Game developer.
-## Game design and programming.
+# Game developer
+### Game design and programming
 
 I have 14 years of professional experience as a programmer, the last 7 exclusively in the games industry.
 
