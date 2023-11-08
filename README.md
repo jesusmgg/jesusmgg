@@ -1,3 +1,25 @@
+# Game developer.
+## Game design and programming.
+
+I have 14 years of professional experience as a programmer, the last 7 exclusively in the games industry.
+
+Experienced in:
+
+- Game framework architecture.
+- Game engine architecture.
+- General gameplay programming.
+- Battle systems.
+- Animation systems.
+- VFX and animation tooling.
+- UI implementation.
+
+Tech I'm very familiar with:
+- Rust
+- C#
+- Python
+- Unity
+- Game Maker
+
 <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jesusmgg&show-avatar=false" width="400" />
 https://profile.codersrank.io/user/jesusmgg/
 
